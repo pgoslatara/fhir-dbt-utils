@@ -13,7 +13,7 @@
 # limitations under the License.
 
 packages:
-  - package: calogica/dbt_date
+  - package: godatadriven/dbt_date
     version: [">=0.7.0", "<0.10.0"]
   - package: dbt-labs/dbt_utils
     version: [">=1.0.0", "<1.2.0"]
